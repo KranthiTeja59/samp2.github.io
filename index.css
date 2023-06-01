@@ -3,7 +3,7 @@
     margin: 0;
 }
 .container{
-    background-image:linear-gradient(24deg,rgb(30, 176, 234) 50%,white 50%);
+    background-image:linear-gradient(24deg,rgb(67, 85, 113) 60%,rgb(186,213,233) 40%);
     height:100vh;
     width: 100%;
     display: flex;
